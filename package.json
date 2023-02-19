@@ -15,7 +15,7 @@
     "underscore-query": "~0.4.0",
     "socket.io": "1.1",
     "socket.io-client": "1.1",
-    "nmea": "0.0.7",
+    "nmea": "0.1.2",
     "serialport": "~1.4.5",
     "sensor_tsl2561": "0.2.2"
   },
