@@ -13,7 +13,7 @@
     "i2c": "0.1.4",
     "onoff": "0.3.2",
     "underscore-query": "~0.4.0",
-    "socket.io": "1.1",
+    "socket.io": "1.7.4",
     "socket.io-client": "1.1",
     "nmea": "0.0.7",
     "serialport": "~1.4.5",
