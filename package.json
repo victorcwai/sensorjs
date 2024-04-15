@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "async": "1.5.2",
-    "lodash": "2.4",
+    "lodash": "4.17.17",
     "log4js": "0.6",
     "i2c": "0.1.4",
     "onoff": "0.3.2",
